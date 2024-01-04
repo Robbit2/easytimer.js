@@ -591,9 +591,9 @@
     }
   }
 
-  exports.Timer = Timer;
-  exports.default = Timer;
+  export.Timer = Timer;
+  export.default = Timer;
 
-  Object.defineProperty(exports, '__esModule', { value: true });
+  Object.defineProperty(export, '__esModule', { value: true });
 
 }));
